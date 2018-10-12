@@ -1,4 +1,4 @@
 #!/bin/bash
 cd "$1"
-npm install
+npm install //test
 cd -
